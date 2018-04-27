@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:background="@drawable/background"
+    tools:context="com.tashfia.whichplaceilikemost.HomeActivity">
+
+
+    <LinearLayout
+        android:id="@+id/layout4"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/layout3"
+        android:background="@android:drawable/zoom_plate"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_nafakum"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Nafa-khum"
+            android:textColor="@android:color/background_light"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/layout2"
+        android:background="@android:drawable/zoom_plate"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_bandarban"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Bandarban"
+            android:textColor="@android:color/background_light"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/layout1"
+        android:background="@android:drawable/zoom_plate"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_saint"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Saint Martain"
+            android:textColor="@android:color/background_light"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@android:drawable/zoom_plate"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_cox"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Coxs Bazer"
+            android:textColor="@android:color/background_light"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout5"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_below="@+id/layout4"
+        android:background="@android:drawable/zoom_plate"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_kaptai"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@android:drawable/menuitem_background"
+            android:text="Kaptai Lake"
+            android:textColor="@android:color/background_light"
+            android:textSize="25sp" />
+    </LinearLayout>
+</RelativeLayout>

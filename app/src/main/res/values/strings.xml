@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Favourite Place</string>
+
+    <string name="place_no1">Coxs Bazer</string>
+    <string name="place_no2">Saint Martain</string>
+    <string name="place_no3">Bandarban</string>
+    <string name="place_no4">Nafa-Khum</string>
+    <string name="place_no5">Kaptai Lake</string>
+
+
+    <string name="description1">
+  Coxs Bazar Town was constituted in 1869, eventually becoming a B-grade municipality in 1989. Located along the Bay of Bengal in South Eastern Bangladesh, Cox\'s Bazar Town is a health resort. But it is famous mostly for its long natural sandy beach. The municipality covers an area of 6.85 km2 (2.64 sq mi) with 27 mahallas and 9 wards and has a population of 51,918.Cox's Bazar is connected by road and air with Chittagong.
+    </string>
+
+
+
+    <string name="description2">
+       Saint Martin (French: Saint-Martin; Dutch: Sint Maarten) is an island in the northeast Caribbean Sea, approximately 300 km (190 mi) east of Puerto Rico. The 87-square-kilometre (34 sq mi) island is divided roughly 60/40 between the French Republic (53 km2, 20 sq mi)[1] and the Kingdom of the Netherlands (34 km2, 13 sq mi),but the two parts are roughly equal in population. It is the worlds smallest inhabited island divided between two nations. The division dates to 1648. The southern Dutch part comprises Sint Maarten and is one of four constituent countries that form the Kingdom of the Netherlands. The northern French part comprises the Collectivité de Saint-Martin (Collectivity of St Martin) and is an overseas collectivity of France.
+       On 1 January 2009, the population of the whole island was 77,741 inhabitants, with 40,917 living on the Dutch side,and 36,824 on the French side.[4]Collectively, the two territories are known as "St-Martin / St Maarten", or sometimes "SXM", the IATA identifier for Princess Juliana International Airport, the island's main airport. St. Martin (the French portion) received the ISO 3166-1 code MF in October 2007.The Dutch part changed in status to a country within the Kingdom of the Netherlands in 2010 and was given the code SX.
+
+    </string>
+
+
+    <string name="description3">
+    Bandarban is a district in South-Eastern Bangladesh, and a part of the Chittagong Division. It is one of the three hill districts of Bangladesh and a part of the Chittagong Hill Tracts, he others being Rangamati District and Khagrachhari District. Bandarban (4,479 km²) is not only the remotest district of the country, but also is the least populated (population 292,900) one.Bandarban (meaning the dam of monkeys), or in Marma or Arakanese language as "Rwa-daw Mro" is also known as Arvumi or the Bohmong Circle. Bandarban town is the home town of the Bohmong Chief (currently King, or Raja, U Cho Prue Marma) who is the head of the Marma population. Of the other hill districts, Rangamati is the Chakma Circle, headed by Raja Devasish Roy and Khagrachari is the Mong Circle, headed by Raja Sachingprue Marma. Bandarban is regarded as one of the most attractive travel destinations in Bangladesh.
+
+    </string>
+
+
+    <string name="description4">
+
+Nafa-khum is a waterfall in Bangladesh on the Sangu River. It is among the largest waterfalls in the country by volume of water falling.[1] The wild hilly river Sangu suddenly falls down here about 25–30 feet.The word "Khum" in Marma language means "Waterfall". A special type of flying fish, whose local name is nating, is found at the bottom in a small cave as they swim against the stream but cannot jump over the height of the fall.
+
+    </string>
+
+
+    <string name="description5">
+        Kaptai Lake is the largest man made lake in Bangladesh.[1] It is located in the Kaptai Upazila under Rangamati District of Chittagong Division. The lake was created as a result of building the Kaptai Dam on the Karnaphuli River, as part of the Karnaphuli Hydro-electric project. The Kaptai Lakes average depth is 100 feet (30 m) and maximum depth is 490 feet (150 m).
+    </string>
+
+
+
+</resources>
